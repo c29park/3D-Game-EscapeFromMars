@@ -1,0 +1,2 @@
+C:\Users\chpfo\Desktop\EscapeFromMars\Assets\FPS\Scripts\obj\x86\Debug\EscapeFromMarsScipts.csprojAssemblyReference.cache
+C:\Users\chpfo\Desktop\EscapeFromMars\Assets\FPS\Scripts\obj\x86\Debug\EscapeFromMarsScipts.csproj.CoreCompileInputs.cache
